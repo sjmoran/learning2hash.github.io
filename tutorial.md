@@ -511,16 +511,6 @@ GRH learns its hyperplanes with Support Vector Machines (SVMs), but is not tied 
 
 In this article, we focused on a single-hashtable implementation of LSH and GRH, and boosted retrieval further with multi-probing (searching nearby buckets). An alternative approach is to use multiple independent hash tables instead of probing within one — a valuable direction for a future deep dive.
 
-For readers eager to explore Learning to Hash in more depth, *Awesome Learning to Hash* is a curated, and regularly updated resource. It offers:
-
-* **Access to over 3,000 key papers**, all organised by topic, method, and application domain
-* Browsing tools: search by tag or author, view papers in a 2D topic map, explore tutorial materials and practical tools
-* A community‑driven structure — with an option to contribute your own papers or suggest updates
-
-Check it out here: [Awesome Learning to Hash](https://learning2hash.github.io/).
-
-*Disclaimer: The views and opinions expressed in this article are my own and do not represent those of my employer or any affiliated organizations. The content is based on personal experience and reflection, and should not be taken as professional or academic advice.*
-
 ## 📚 Further Learning
 
 If you’d like to dive deeper into the theory and practice of hashing for similarity search and large-scale learning, here are some foundational and advanced resources:
